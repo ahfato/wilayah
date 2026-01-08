@@ -1,0 +1,514 @@
+﻿1101;11;Kabupaten Aceh Selatan;1
+1102;11;Kabupaten Aceh Tenggara;1
+1103;11;Kabupaten Aceh Timur;1
+1104;11;Kabupaten Aceh Tengah;1
+1105;11;Kabupaten Aceh Barat;1
+1106;11;Kabupaten Aceh Besar;1
+1107;11;Kabupaten Pidie;1
+1108;11;Kabupaten Aceh Utara;1
+1109;11;Kabupaten Simeulue;1
+1110;11;Kabupaten Aceh Singkil;1
+1111;11;Kabupaten Bireuen;1
+1112;11;Kabupaten Aceh Barat Daya;1
+1113;11;Kabupaten Gayo Lues;1
+1114;11;Kabupaten Aceh Jaya;1
+1115;11;Kabupaten Nagan Raya;1
+1116;11;Kabupaten Aceh Tamiang;1
+1117;11;Kabupaten Bener Meriah;1
+1118;11;Kabupaten Pidie Jaya;1
+1171;11;Kota Banda Aceh;1
+1172;11;Kota Sabang;1
+1173;11;Kota Lhokseumawe;1
+1174;11;Kota Langsa;1
+1175;11;Kota Subulussalam;1
+1201;12;Kabupaten Tapanuli Tengah;1
+1202;12;Kabupaten Tapanuli Utara;1
+1203;12;Kabupaten Tapanuli Selatan;1
+1204;12;Kabupaten Nias;1
+1205;12;Kabupaten Langkat;1
+1206;12;Kabupaten Karo;1
+1207;12;Kabupaten Deli Serdang;1
+1208;12;Kabupaten Simalungun;1
+1209;12;Kabupaten Asahan;1
+1210;12;Kabupaten Labuhanbatu;1
+1211;12;Kabupaten Dairi;1
+1212;12;Kabupaten Toba;1
+1213;12;Kabupaten Mandailing Natal;1
+1214;12;Kabupaten Nias Selatan;1
+1215;12;Kabupaten Pakpak Bharat;1
+1216;12;Kabupaten Humbang Hasundutan;1
+1217;12;Kabupaten Samosir;1
+1218;12;Kabupaten Serdang Bedagai;1
+1219;12;Kabupaten Batu Bara;1
+1220;12;Kabupaten Padang Lawas Utara;1
+1221;12;Kabupaten Padang Lawas;1
+1222;12;Kabupaten Labuhanbatu Selatan;1
+1223;12;Kabupaten Labuhanbatu Utara;1
+1224;12;Kabupaten Nias Utara;1
+1225;12;Kabupaten Nias Barat;1
+1271;12;Kota Medan;1
+1272;12;Kota Pematangsiantar;1
+1273;12;Kota Sibolga;1
+1274;12;Kota Tanjungbalai;1
+1275;12;Kota Binjai;1
+1276;12;Kota Tebing Tinggi;1
+1277;12;Kota Padangsidimpuan;1
+1278;12;Kota Gunungsitoli;1
+1301;13;Kabupaten Pesisir Selatan;1
+1302;13;Kabupaten Solok;1
+1303;13;Kabupaten Sijunjung;1
+1304;13;Kabupaten Tanah Datar;1
+1305;13;Kabupaten Padang Pariaman;1
+1306;13;Kabupaten Agam;1
+1307;13;Kabupaten Lima Puluh Kota;1
+1308;13;Kabupaten Pasaman;1
+1309;13;Kabupaten Kepulauan Mentawai;1
+1310;13;Kabupaten Dharmasraya;1
+1311;13;Kabupaten Solok Selatan;1
+1312;13;Kabupaten Pasaman Barat;1
+1371;13;Kota Padang;1
+1372;13;Kota Solok;1
+1373;13;Kota Sawahlunto;1
+1374;13;Kota Padang Panjang;1
+1375;13;Kota Bukittinggi;1
+1376;13;Kota Payakumbuh;1
+1377;13;Kota Pariaman;1
+1401;14;Kabupaten Kampar;1
+1402;14;Kabupaten Indragiri Hulu;1
+1403;14;Kabupaten Bengkalis;1
+1404;14;Kabupaten Indragiri Hilir;1
+1405;14;Kabupaten Pelalawan;1
+1406;14;Kabupaten Rokan Hulu;1
+1407;14;Kabupaten Rokan Hilir;1
+1408;14;Kabupaten Siak;1
+1409;14;Kabupaten Kuantan Singingi;1
+1410;14;Kabupaten Kepulauan Meranti;1
+1471;14;Kota Pekanbaru;1
+1472;14;Kota Dumai;1
+1501;15;Kabupaten Kerinci;1
+1502;15;Kabupaten Merangin;1
+1503;15;Kabupaten Sarolangun;1
+1504;15;Kabupaten Batanghari;1
+1505;15;Kabupaten Muaro Jambi;1
+1506;15;Kabupaten Tanjung Jabung Barat;1
+1507;15;Kabupaten Tanjung Jabung Timur;1
+1508;15;Kabupaten Bungo;1
+1509;15;Kabupaten Tebo;1
+1571;15;Kota Jambi;1
+1572;15;Kota Sungai Penuh;1
+1601;16;Kabupaten Ogan Komering Ulu;1
+1602;16;Kabupaten Ogan Komering Ilir;1
+1603;16;Kabupaten Muara Enim;1
+1604;16;Kabupaten Lahat;1
+1605;16;Kabupaten Musi Rawas;1
+1606;16;Kabupaten Musi Banyuasin;1
+1607;16;Kabupaten Banyuasin;1
+1608;16;Kabupaten Ogan Komering Ulu Timur;1
+1609;16;Kabupaten Ogan Komering Ulu Selatan;1
+1610;16;Kabupaten Ogan Ilir;1
+1611;16;Kabupaten Empat Lawang;1
+1612;16;Kabupaten Penukal Abab Lematang Ilir;1
+1613;16;Kabupaten Musi Rawas Utara;1
+1671;16;Kota Palembang;1
+1672;16;Kota Pagar Alam;1
+1673;16;Kota Lubuk Linggau;1
+1674;16;Kota Prabumulih;1
+1701;17;Kabupaten Bengkulu Selatan;1
+1702;17;Kabupaten Rejang Lebong;1
+1703;17;Kabupaten Bengkulu Utara;1
+1704;17;Kabupaten Kaur;1
+1705;17;Kabupaten Seluma;1
+1706;17;Kabupaten Mukomuko;1
+1707;17;Kabupaten Lebong;1
+1708;17;Kabupaten Kepahiang;1
+1709;17;Kabupaten Bengkulu Tengah;1
+1771;17;Kota Bengkulu;1
+1801;18;Kabupaten Lampung Selatan;1
+1802;18;Kabupaten Lampung Tengah;1
+1803;18;Kabupaten Lampung Utara;1
+1804;18;Kabupaten Lampung Barat;1
+1805;18;Kabupaten Tulang Bawang;1
+1806;18;Kabupaten Tanggamus;1
+1807;18;Kabupaten Lampung Timur;1
+1808;18;Kabupaten Way Kanan;1
+1809;18;Kabupaten Pesawaran;1
+1810;18;Kabupaten Pringsewu;1
+1811;18;Kabupaten Mesuji;1
+1812;18;Kabupaten Tulang Bawang Barat;1
+1813;18;Kabupaten Pesisir Barat;1
+1871;18;Kota Bandar Lampung;1
+1872;18;Kota Metro;1
+1901;19;Kabupaten Bangka;1
+1902;19;Kabupaten Belitung;1
+1903;19;Kabupaten Bangka Selatan;1
+1904;19;Kabupaten Bangka Tengah;1
+1905;19;Kabupaten Bangka Barat;1
+1906;19;Kabupaten Belitung Timur;1
+1971;19;Kota Pangkal Pinang;1
+2101;21;Kabupaten Bintan;1
+2102;21;Kabupaten Karimun;1
+2103;21;Kabupaten Natuna;1
+2104;21;Kabupaten Lingga;1
+2105;21;Kabupaten Kepulauan Anambas;1
+2171;21;Kota Batam;1
+2172;21;Kota Tanjung Pinang;1
+3101;31;Kabupaten Administrasi Kepulauan Seribu;1
+3171;31;Kota Administrasi Jakarta Pusat;1
+3172;31;Kota Administrasi Jakarta Utara ;1
+3173;31;Kota Administrasi Jakarta Barat;1
+3174;31;Kota Administrasi Jakarta Selatan;1
+3175;31;Kota Administrasi Jakarta Timur;1
+3201;32;Kabupaten Bogor;1
+3202;32;Kabupaten Sukabumi;1
+3203;32;Kabupaten Cianjur;1
+3204;32;Kabupaten Bandung;1
+3205;32;Kabupaten Garut;1
+3206;32;Kabupaten Tasikmalaya;1
+3207;32;Kabupaten Ciamis;1
+3208;32;Kabupaten Kuningan;1
+3209;32;Kabupaten Cirebon;1
+3210;32;Kabupaten Majalengka;1
+3211;32;Kabupaten Sumedang;1
+3212;32;Kabupaten Indramayu;1
+3213;32;Kabupaten Subang;1
+3214;32;Kabupaten Purwakarta;1
+3215;32;Kabupaten Karawang;1
+3216;32;Kabupaten Bekasi;1
+3217;32;Kabupaten Bandung Barat;1
+3218;32;Kabupaten Pangandaran;1
+3271;32;Kota Bogor;1
+3272;32;Kota Sukabumi;1
+3273;32;Kota Bandung;1
+3274;32;Kota Cirebon;1
+3275;32;Kota Bekasi;1
+3276;32;Kota Depok;1
+3277;32;Kota Cimahi;1
+3278;32;Kota Tasikmalaya;1
+3279;32;Kota Banjar;1
+3301;33;Kabupaten Cilacap;1
+3302;33;Kabupaten Banyumas;1
+3303;33;Kabupaten Purbalingga;1
+3304;33;Kabupaten Banjarnegara;1
+3305;33;Kabupaten Kebumen;1
+3306;33;Kabupaten Purworejo;1
+3307;33;Kabupaten Wonosobo;1
+3308;33;Kabupaten Magelang;1
+3309;33;Kabupaten Boyolali;1
+3310;33;Kabupaten Klaten;1
+3311;33;Kabupaten Sukoharjo;1
+3312;33;Kabupaten Wonogiri;1
+3313;33;Kabupaten Karanganyar;1
+3314;33;Kabupaten Sragen;1
+3315;33;Kabupaten Grobogan;1
+3316;33;Kabupaten Blora;1
+3317;33;Kabupaten Rembang;1
+3318;33;Kabupaten Pati;1
+3319;33;Kabupaten Kudus;1
+3320;33;Kabupaten Jepara;1
+3321;33;Kabupaten Demak;1
+3322;33;Kabupaten Semarang;1
+3323;33;Kabupaten Temanggung;1
+3324;33;Kabupaten Kendal;1
+3325;33;Kabupaten Batang;1
+3326;33;Kabupaten Pekalongan;1
+3327;33;Kabupaten Pemalang;1
+3328;33;Kabupaten Tegal;1
+3329;33;Kabupaten Brebes;1
+3371;33;Kota Magelang;1
+3372;33;Kota Surakarta;1
+3373;33;Kota Salatiga;1
+3374;33;Kota Semarang;1
+3375;33;Kota Pekalongan;1
+3376;33;Kota Tegal;1
+3401;34;Kabupaten Kulon Progo;1
+3402;34;Kabupaten Bantul;1
+3403;34;Kabupaten Gunungkidul;1
+3404;34;Kabupaten Sleman;1
+3471;34;Kota Yogyakarta;1
+3501;35;Kabupaten Pacitan;1
+3502;35;Kabupaten Ponorogo;1
+3503;35;Kabupaten Trenggalek;1
+3504;35;Kabupaten Tulungagung;1
+3505;35;Kabupaten Blitar;1
+3506;35;Kabupaten Kediri;1
+3507;35;Kabupaten Malang;1
+3508;35;Kabupaten Lumajang;1
+3509;35;Kabupaten Jember;1
+3510;35;Kabupaten Banyuwangi;1
+3511;35;Kabupaten Bondowoso;1
+3512;35;Kabupaten Situbondo;1
+3513;35;Kabupaten Probolinggo;1
+3514;35;Kabupaten Pasuruan;1
+3515;35;Kabupaten Sidoarjo;1
+3516;35;Kabupaten Mojokerto;1
+3517;35;Kabupaten Jombang;1
+3518;35;Kabupaten Nganjuk;1
+3519;35;Kabupaten Madiun;1
+3520;35;Kabupaten Magetan;1
+3521;35;Kabupaten Ngawi;1
+3522;35;Kabupaten Bojonegoro;1
+3523;35;Kabupaten Tuban;1
+3524;35;Kabupaten Lamongan;1
+3525;35;Kabupaten Gresik;1
+3526;35;Kabupaten Bangkalan;1
+3527;35;Kabupaten Sampang;1
+3528;35;Kabupaten Pamekasan;1
+3529;35;Kabupaten Sumenep;1
+3571;35;Kota Kediri;1
+3572;35;Kota Blitar;1
+3573;35;Kota Malang;1
+3574;35;Kota Probolinggo;1
+3575;35;Kota Pasuruan;1
+3576;35;Kota Mojokerto;1
+3577;35;Kota Madiun;1
+3578;35;Kota Surabaya;1
+3579;35;Kota Batu;1
+3601;36;Kabupaten Pandeglang;1
+3602;36;Kabupaten Lebak;1
+3603;36;Kabupaten Tangerang;1
+3604;36;Kabupaten Serang;1
+3671;36;Kota Tangerang;1
+3672;36;Kota Cilegon;1
+3673;36;Kota Serang;1
+3674;36;Kota Tangerang Selatan;1
+5101;51;Kabupaten Jembrana;1
+5102;51;Kabupaten Tabanan;1
+5103;51;Kabupaten Badung;1
+5104;51;Kabupaten Gianyar;1
+5105;51;Kabupaten Klungkung;1
+5106;51;Kabupaten Bangli;1
+5107;51;Kabupaten Karangasem;1
+5108;51;Kabupaten Buleleng;1
+5171;51;Kota Denpasar;1
+5201;52;Kabupaten Lombok Barat;1
+5202;52;Kabupaten Lombok Tengah;1
+5203;52;Kabupaten Lombok Timur;1
+5204;52;Kabupaten Sumbawa;1
+5205;52;Kabupaten Dompu;1
+5206;52;Kabupaten Bima;1
+5207;52;Kabupaten Sumbawa Barat;1
+5208;52;Kabupaten Lombok Utara;1
+5271;52;Kota Mataram;1
+5272;52;Kota Bima;1
+5301;53;Kabupaten Kupang;1
+5302;53;Kab Timor Tengah Selatan;1
+5303;53;Kabupaten Timor Tengah Utara;1
+5304;53;Kabupaten Belu;1
+5305;53;Kabupaten Alor;1
+5306;53;Kabupaten Flores Timur;1
+5307;53;Kabupaten Sikka;1
+5308;53;Kabupaten Ende;1
+5309;53;Kabupaten Ngada;1
+5310;53;Kabupaten Manggarai;1
+5311;53;Kabupaten Sumba Timur;1
+5312;53;Kabupaten Sumba Barat;1
+5313;53;Kabupaten Lembata;1
+5314;53;Kabupaten Rote Ndao;1
+5315;53;Kabupaten Manggarai Barat;1
+5316;53;Kabupaten Nagekeo;1
+5317;53;Kabupaten Sumba Tengah;1
+5318;53;Kabupaten Sumba Barat Daya;1
+5319;53;Kabupaten Manggarai Timur;1
+5320;53;Kabupaten Sabu Raijua;1
+5321;53;Kabupaten Malaka;1
+5371;53;Kota Kupang;1
+6101;61;Kabupaten Sambas;1
+6102;61;Kabupaten Mempawah;1
+6103;61;Kabupaten Sanggau;1
+6104;61;Kabupaten Ketapang;1
+6105;61;Kabupaten Sintang;1
+6106;61;Kabupaten Kapuas Hulu;1
+6107;61;Kabupaten Bengkayang;1
+6108;61;Kabupaten Landak;1
+6109;61;Kabupaten Sekadau;1
+6110;61;Kabupaten Melawi;1
+6111;61;Kabupaten Kayong Utara;1
+6112;61;Kabupaten Kubu Raya;1
+6171;61;Kota Pontianak;1
+6172;61;Kota Singkawang;1
+6201;62;Kabupaten Kotawaringin Barat;1
+6202;62;Kabupaten Kotawaringin Timur;1
+6203;62;Kabupaten Kapuas;1
+6204;62;Kabupaten Barito Selatan;1
+6205;62;Kabupaten Barito Utara;1
+6206;62;Kabupaten Katingan;1
+6207;62;Kabupaten Seruyan;1
+6208;62;Kabupaten Sukamara;1
+6209;62;Kabupaten Lamandau;1
+6210;62;Kabupaten Gunung Mas;1
+6211;62;Kabupaten Pulang Pisau;1
+6212;62;Kabupaten Murung Raya;1
+6213;62;Kabupaten Barito Timur;1
+6271;62;Kota Palangkaraya;1
+6301;63;Kabupaten Tanah Laut;1
+6302;63;Kabupaten Kotabaru;1
+6303;63;Kabupaten Banjar;1
+6304;63;Kabupaten Barito Kuala;1
+6305;63;Kabupaten Tapin;1
+6306;63;Kabupaten Hulu Sungai Selatan;1
+6307;63;Kabupaten Hulu Sungai Tengah;1
+6308;63;Kabupaten Hulu Sungai Utara;1
+6309;63;Kabupaten Tabalong;1
+6310;63;Kabupaten Tanah Bumbu;1
+6311;63;Kabupaten Balangan;1
+6371;63;Kota Banjarmasin;1
+6372;63;Kota Banjarbaru;1
+6401;64;Kabupaten Paser;1
+6402;64;Kabupaten Kutai Kartanegara;1
+6403;64;Kabupaten Berau;1
+6407;64;Kabupaten Kutai Barat;1
+6408;64;Kabupaten Kutai Timur;1
+6409;64;Kabupaten Penajam Paser Utara;1
+6411;64;Kabupaten Mahakam Ulu;1
+6471;64;Kota Balikpapan;1
+6472;64;Kota Samarinda;1
+6474;64;Kota Bontang;1
+6501;65;Kabupaten Bulungan;1
+6502;65;Kabupaten Malinau;1
+6503;65;Kabupaten Nunukan;1
+6504;65;Kabupaten Tana Tidung;1
+6571;65;Kota Tarakan;1
+7101;71;Kabupaten Bolaang Mongondow;1
+7102;71;Kabupaten Minahasa;1
+7103;71;Kabupaten Kepulauan Sangihe;1
+7104;71;Kabupaten Kepulauan Talaud;1
+7105;71;Kabupaten Minahasa Selatan;1
+7106;71;Kabupaten Minahasa Utara;1
+7107;71;Kabupaten Minahasa Tenggara;1
+7108;71;Kabupaten Bolaang Mongondow Utara;1
+7109;71;Kabupaten Kep. Siau Tagulandang Biaro;1
+7110;71;Kabupaten Bolaang Mongondow Timur;1
+7111;71;Kabupaten Bolaang Mongondow Selatan;1
+7171;71;Kota Manado;1
+7172;71;Kota Bitung;1
+7173;71;Kota Tomohon;1
+7174;71;Kota Kotamobagu;1
+7201;72;Kabupaten Banggai;1
+7202;72;Kabupaten Poso;1
+7203;72;Kabupaten Donggala;1
+7204;72;Kabupaten Toli-Toli;1
+7205;72;Kabupaten Buol;1
+7206;72;Kabupaten Morowali;1
+7207;72;Kabupaten Banggai Kepulauan;1
+7208;72;Kabupaten Parigi Moutong;1
+7209;72;Kabupaten Tojo Una Una;1
+7210;72;Kabupaten Sigi;1
+7211;72;Kabupaten Banggai Laut;1
+7212;72;Kabupaten Morowali Utara;1
+7271;72;Kota Palu;1
+7301;73;Kabupaten Kepulauan Selayar;1
+7302;73;Kabupaten Bulukumba;1
+7303;73;Kabupaten Bantaeng;1
+7304;73;Kabupaten Jeneponto;1
+7305;73;Kabupaten Takalar;1
+7306;73;Kabupaten Gowa;1
+7307;73;Kabupaten Sinjai;1
+7308;73;Kabupaten Bone;1
+7309;73;Kabupaten Maros;1
+7310;73;Kabupaten Pangkajene dan Kepulauan;1
+7311;73;Kabupaten Barru;1
+7312;73;Kabupaten Soppeng;1
+7313;73;Kabupaten Wajo;1
+7314;73;Kabupaten Sidenreng Rappang;1
+7315;73;Kabupaten Pinrang;1
+7316;73;Kabupaten Enrekang;1
+7317;73;Kabupaten Luwu;1
+7318;73;Kabupaten Tana Toraja;1
+7322;73;Kabupaten Luwu Utara;1
+7324;73;Kabupaten Luwu Timur;1
+7326;73;Kabupaten Toraja Utara;1
+7371;73;Kota Makassar;1
+7372;73;Kota Parepare;1
+7373;73;Kota Palopo;1
+7401;74;Kabupaten Kolaka;1
+7402;74;Kabupaten Konawe;1
+7403;74;Kabupaten Muna;1
+7404;74;Kabupaten Buton;1
+7405;74;Kabupaten Konawe Selatan;1
+7406;74;Kabupaten Bombana;1
+7407;74;Kabupaten Wakatobi;1
+7408;74;Kabupaten Kolaka Utara;1
+7409;74;Kabupaten Konawe Utara;1
+7410;74;Kabupaten Buton Utara;1
+7411;74;Kabupaten Kolaka Timur;1
+7412;74;Kabupaten Konawe Kepulauan;1
+7413;74;Kabupaten Muna Barat;1
+7414;74;Kabupaten Buton Tengah;1
+7415;74;Kabupaten Buton Selatan;1
+7471;74;Kota Kendari;1
+7472;74;Kota Bau Bau;1
+7501;75;Kabupaten Gorontalo;1
+7502;75;Kabupaten Boalemo;1
+7503;75;Kabupaten Bone Bolango;1
+7504;75;Kabupaten Pohuwato;1
+7505;75;Kabupaten Gorontalo Utara;1
+7571;75;Kota Gorontalo;1
+7601;76;Kabupaten Pasangkayu;1
+7602;76;Kabupaten Mamuju;1
+7603;76;Kabupaten Mamasa;1
+7604;76;Kabupaten Polewali Mandar;1
+7605;76;Kabupaten Majene;1
+7606;76;Kabupaten Mamuju Tengah;1
+8101;81;Kabupaten Maluku Tengah;1
+8102;81;Kabupaten Maluku Tenggara;1
+8103;81;Kabupaten Kepulauan Tanimbar;1
+8104;81;Kabupaten Buru;1
+8105;81;Kabupaten Seram Bagian Timur;1
+8106;81;Kabupaten Seram Bagian Barat;1
+8107;81;Kabupaten Kepulauan Aru;1
+8108;81;Kabupaten Maluku Barat Daya;1
+8109;81;Kabupaten Buru Selatan;1
+8171;81;Kota Ambon;1
+8172;81;Kota Tual;1
+8201;82;Kabupaten Halmahera Barat;1
+8202;82;Kabupaten Halmahera Tengah;1
+8203;82;Kabupaten Halmahera Utara;1
+8204;82;Kabupaten Halmahera Selatan;1
+8205;82;Kabupaten Kepulauan Sula;1
+8206;82;Kabupaten Halmahera Timur;1
+8207;82;Kabupaten Pulau Morotai;1
+8208;82;Kabupaten Pulau Taliabu;1
+8271;82;Kota Ternate;1
+8272;82;Kota Tidore Kepulauan;1
+9103;91;Kabupaten Jayapura;1
+9105;91;Kabupaten Kepulauan Yapen;1
+9106;91;Kabupaten Biak Numfor;1
+9110;91;Kabupaten Sarmi;1
+9111;91;Kabupaten Keerom;1
+9115;91;Kabupaten Waropen;1
+9119;91;Kabupaten Supiori;1
+9120;91;Kabupaten Mamberamo Raya;1
+9171;91;Kota Jayapura;1
+9202;92;Kabupaten Manokwari;1
+9203;92;Kabupaten Fak Fak;1
+9206;92;Kabupaten Teluk Bintuni;1
+9207;92;Kabupaten Teluk Wondama;1
+9208;92;Kabupaten Kaimana;1
+9211;92;Kabupaten Manokwari Selatan;1
+9212;92;Kabupaten Pegunungan Arfak;1
+9301;93;Kabupaten Merauke;1
+9302;93;Kabupaten Boven Digoel;1
+9303;93;Kabupaten Mappi;1
+9304;93;Kabupaten Asmat;1
+9401;94;Kabupaten Nabire;1
+9402;94;Kabupaten Puncak Jaya;1
+9403;94;Kabupaten Paniai;1
+9404;94;Kabupaten Mimika;1
+9405;94;Kabupaten Puncak;1
+9406;94;Kabupaten Dogiyai;1
+9407;94;Kabupaten Intan Jaya;1
+9408;94;Kabupaten Deiyai;1
+9501;95;Kabupaten Jayawijaya;1
+9502;95;Kab Pegunungan Bintang;1
+9503;95;Kabupaten Yahukimo;1
+9504;95;Kabupaten Tolikara;1
+9505;95;Kabupaten Mamberamo Tengah;1
+9506;95;Kabupaten Yalimo;1
+9507;95;Kabupaten Lanny Jaya;1
+9508;95;Kabupaten Nduga;1
+9601;96;Kabupaten Sorong;1
+9602;96;Kabupaten Sorong Selatan;1
+9603;96;Kabupaten Raja Ampat;1
+9604;96;Kabupaten Tambrauw;1
+9605;96;Kabupaten Maybrat;1
+9671;96;Kota Sorong;1
